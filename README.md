@@ -1,2 +1,2 @@
 # golang
-some go code
+let's learn go
